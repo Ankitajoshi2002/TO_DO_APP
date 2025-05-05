@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #d4fc79, #96e6a1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #dcdcdc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.today {
+  background-color: #007bff;
+  color: white;
+}
+
+.pending {
+  background-color: #ffc107;
+  color: white;
+}
+
+.overdue {
+  background-color: #dc3545;
+  color: white;
+}
+
+.task-input {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.task-input input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-task {
+  background-color: #28a745;
+  color: white;
+}
+
+.tasks {
+  margin-top: 20px;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+  margin-top: 10px;
+}
