@@ -14,7 +14,7 @@ A modern, interactive, and stylish To-Do App built using **React**, **Styled-Com
 
 ## 🚀 Demo
 
-![Todo App Demo](https://user-images.githubusercontent.com/your-demo-image.gif)
+![Todo App Demo](https://github.com/Ankitajoshi2002/TO_DO_APP/blob/main/Home%20view.png)
 
 ## 🛠️ Tech Stack
 
@@ -41,10 +41,20 @@ A modern, interactive, and stylish To-Do App built using **React**, **Styled-Com
    npm install
    npm start
    http://localhost:3000
-|🏠Home View                                                              | Filtered Tasks                                                             |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ![Home](https://user-images.githubusercontent.com/home-screenshot.png) | ![Filter](https://user-images.githubusercontent.com/filter-screenshot.png) |
 
+  
+## 🏠 Home View
+
+-Take a look at the sleek and minimal Home interface of the To-Do App. It's designed for ease of use and visual clarity.
+
+
+<p align="center"> <img src="https://github.com/Ankitajoshi2002/TO_DO_APP/blob/main/Home%20view.png" alt="Home View" width="600"/> </p>
+
+🌟 Clean and animated UI
+
+📋 Filter your tasks by Today, Pending, or Overdue
+
+⚡ Add tasks quickly with a deadline set automatically
 
 
 
