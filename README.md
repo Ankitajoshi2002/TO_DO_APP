@@ -14,7 +14,9 @@ A modern, interactive, and stylish To-Do App built using **React**, **Styled-Com
 
 ## 🚀 Demo
 
-![Todo App Demo](https://github.com/Ankitajoshi2002/TO_DO_APP/blob/main/Home%20view.png)
+🔗 **Permanent Demo Preview**  
+![To-Do App Demo](https://github.com/Ankitajoshi2002/TO_DO_APP/blob/93612d6b96b4cb3f1d15a9cfb41347b62081b3a3/Preview/Home%20view.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +50,7 @@ A modern, interactive, and stylish To-Do App built using **React**, **Styled-Com
 -Take a look at the sleek and minimal Home interface of the To-Do App. It's designed for ease of use and visual clarity.
 
 
-<p align="center"> <img src="https://github.com/Ankitajoshi2002/TO_DO_APP/blob/main/Home%20view.png" alt="Home View" width="600"/> </p>
+<p align="center"> <img src="https://github.com/Ankitajoshi2002/TO_DO_APP/blob/93612d6b96b4cb3f1d15a9cfb41347b62081b3a3/Preview/Home%20view.png" alt="Home View" width="600"/> </p>
 
 🌟 Clean and animated UI
 
